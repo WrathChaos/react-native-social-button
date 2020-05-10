@@ -7,7 +7,7 @@ import {
   SafeAreaView,
   ImageBackground,
 } from "react-native";
-import SocialLoginButton from "./lib/SocialLoginButton";
+import SocialLoginButton from "react-native-social-button";
 
 const backgroundImage = require("./assets/dave-unsplash.jpg");
 const logoImage = require("./assets/logo-example.png");
