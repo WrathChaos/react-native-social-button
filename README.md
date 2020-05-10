@@ -2,7 +2,7 @@
 
 [![Battle Tested ✅](https://img.shields.io/badge/-Battle--Tested%20%E2%9C%85-03666e?style=for-the-badge)](https://github.com/WrathChaos/react-native-social-button)
 
-[![React Native Social Button](https://img.shields.io/badge/-React%20Native%20Library%20Boilerplate-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-native-social-button)
+[![React Native Social Button](https://img.shields.io/badge/-Easy%20%26%20Elegant%20Social%20Button%20for%20React%20Native-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-native-social-button)
 
 [![npm version](https://img.shields.io/npm/v/react-native-social-button.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-social-button)
 [![npm](https://img.shields.io/npm/dt/react-native-social-button.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-social-button)
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img alt="React Native Social Button"
-        src="assets/Screenshots/example.gif" height="650" width="30%" />
+        src="assets/Screenshots/example.gif" height="650" />
   <img alt="React Native Social Button"
         src="assets/Screenshots/example.png" height="650" />
 </p>
