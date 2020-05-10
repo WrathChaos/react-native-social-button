@@ -51,7 +51,7 @@ import SocialButton from "react-native-social-button";
 ## Basic Usage
 
 ```js
-<SocialButton />
+<SocialButton onPress={() => {}} />
 ```
 
 ## Advanced Usage
@@ -67,6 +67,7 @@ import SocialButton from "react-native-social-button";
       source={require("../assets/your-image.png")}
     />
   }
+  onPress={() => {}}
 />
 ```
 
